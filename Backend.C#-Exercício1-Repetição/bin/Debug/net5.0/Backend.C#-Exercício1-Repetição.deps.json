@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Backend.C#-Exercício1-Repetição/1.0.0": {
+        "runtime": {
+          "Backend.C#-Exercício1-Repetição.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Backend.C#-Exercício1-Repetição/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

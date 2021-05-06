@@ -1,0 +1,16 @@
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício-Repetição_Desafio\bin\Debug\net5.0\Backend.C#-Exercício-Repetição_Desafio.exe
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício-Repetição_Desafio\bin\Debug\net5.0\Backend.C#-Exercício-Repetição_Desafio.deps.json
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício-Repetição_Desafio\bin\Debug\net5.0\Backend.C#-Exercício-Repetição_Desafio.runtimeconfig.json
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício-Repetição_Desafio\bin\Debug\net5.0\Backend.C#-Exercício-Repetição_Desafio.runtimeconfig.dev.json
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício-Repetição_Desafio\bin\Debug\net5.0\Backend.C#-Exercício-Repetição_Desafio.dll
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício-Repetição_Desafio\bin\Debug\net5.0\ref\Backend.C#-Exercício-Repetição_Desafio.dll
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício-Repetição_Desafio\bin\Debug\net5.0\Backend.C#-Exercício-Repetição_Desafio.pdb
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício-Repetição_Desafio\obj\Debug\net5.0\Backend.C#-Exercício-Repetição_Desafio.csprojAssemblyReference.cache
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício-Repetição_Desafio\obj\Debug\net5.0\Backend.C#-Exercício-Repetição_Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício-Repetição_Desafio\obj\Debug\net5.0\Backend.C#-Exercício-Repetição_Desafio.AssemblyInfoInputs.cache
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício-Repetição_Desafio\obj\Debug\net5.0\Backend.C#-Exercício-Repetição_Desafio.AssemblyInfo.cs
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício-Repetição_Desafio\obj\Debug\net5.0\Backend.C#-Exercício-Repetição_Desafio.csproj.CoreCompileInputs.cache
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício-Repetição_Desafio\obj\Debug\net5.0\Backend.C#-Exercício-Repetição_Desafio.dll
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício-Repetição_Desafio\obj\Debug\net5.0\ref\Backend.C#-Exercício-Repetição_Desafio.dll
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício-Repetição_Desafio\obj\Debug\net5.0\Backend.C#-Exercício-Repetição_Desafio.pdb
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício-Repetição_Desafio\obj\Debug\net5.0\Backend.C#-Exercício-Repetição_Desafio.genruntimeconfig.cache

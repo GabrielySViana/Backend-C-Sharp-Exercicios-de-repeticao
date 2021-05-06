@@ -1,0 +1,16 @@
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício3-Repetição\bin\Debug\net5.0\Backend.C#-Exercício3-Repetição.exe
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício3-Repetição\bin\Debug\net5.0\Backend.C#-Exercício3-Repetição.deps.json
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício3-Repetição\bin\Debug\net5.0\Backend.C#-Exercício3-Repetição.runtimeconfig.json
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício3-Repetição\bin\Debug\net5.0\Backend.C#-Exercício3-Repetição.runtimeconfig.dev.json
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício3-Repetição\bin\Debug\net5.0\Backend.C#-Exercício3-Repetição.dll
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício3-Repetição\bin\Debug\net5.0\ref\Backend.C#-Exercício3-Repetição.dll
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício3-Repetição\bin\Debug\net5.0\Backend.C#-Exercício3-Repetição.pdb
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício3-Repetição\obj\Debug\net5.0\Backend.C#-Exercício3-Repetição.csprojAssemblyReference.cache
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício3-Repetição\obj\Debug\net5.0\Backend.C#-Exercício3-Repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício3-Repetição\obj\Debug\net5.0\Backend.C#-Exercício3-Repetição.AssemblyInfoInputs.cache
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício3-Repetição\obj\Debug\net5.0\Backend.C#-Exercício3-Repetição.AssemblyInfo.cs
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício3-Repetição\obj\Debug\net5.0\Backend.C#-Exercício3-Repetição.csproj.CoreCompileInputs.cache
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício3-Repetição\obj\Debug\net5.0\Backend.C#-Exercício3-Repetição.dll
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício3-Repetição\obj\Debug\net5.0\ref\Backend.C#-Exercício3-Repetição.dll
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício3-Repetição\obj\Debug\net5.0\Backend.C#-Exercício3-Repetição.pdb
+C:\Users\Gabs\OneDrive\Documentos\Backend.C#-Exercício3-Repetição\obj\Debug\net5.0\Backend.C#-Exercício3-Repetição.genruntimeconfig.cache
